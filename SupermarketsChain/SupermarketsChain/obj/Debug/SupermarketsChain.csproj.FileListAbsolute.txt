@@ -1,0 +1,9 @@
+C:\Users\Valeri\Desktop\Database-App.git\trunk\SupermarketsChain\SupermarketsChain\bin\Debug\SupermarketsChain.exe.config
+C:\Users\Valeri\Desktop\Database-App.git\trunk\SupermarketsChain\SupermarketsChain\bin\Debug\SupermarketsChain.exe
+C:\Users\Valeri\Desktop\Database-App.git\trunk\SupermarketsChain\SupermarketsChain\bin\Debug\SupermarketsChain.pdb
+C:\Users\Valeri\Desktop\Database-App.git\trunk\SupermarketsChain\SupermarketsChain\obj\Debug\SupermarketsChain.csprojResolveAssemblyReference.cache
+C:\Users\Valeri\Desktop\Database-App.git\trunk\SupermarketsChain\SupermarketsChain\obj\Debug\SupermarketsChain.SupermarketsChain.resources
+C:\Users\Valeri\Desktop\Database-App.git\trunk\SupermarketsChain\SupermarketsChain\obj\Debug\SupermarketsChain.Properties.Resources.resources
+C:\Users\Valeri\Desktop\Database-App.git\trunk\SupermarketsChain\SupermarketsChain\obj\Debug\SupermarketsChain.csproj.GenerateResource.Cache
+C:\Users\Valeri\Desktop\Database-App.git\trunk\SupermarketsChain\SupermarketsChain\obj\Debug\SupermarketsChain.exe
+C:\Users\Valeri\Desktop\Database-App.git\trunk\SupermarketsChain\SupermarketsChain\obj\Debug\SupermarketsChain.pdb
